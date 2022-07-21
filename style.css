@@ -1,4 +1,4 @@
-.Recipes {
+.recipes {
     display: flex;
     flex-direction: row;
     align-items: stretch;
@@ -6,7 +6,7 @@
     flex-wrap: wrap;
 }
 
-.Recipes>div {
+.recipes>div {
     margin: 2em;
 }
 
@@ -18,12 +18,11 @@
 }
 
 .information {
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 19px;
+    line-height: 1.7;
 }
 
 .allRecipes {
-    background-color: #ddd;
+    background-color: rgb(201, 196, 196);
     padding: 1rem;
-
 }
